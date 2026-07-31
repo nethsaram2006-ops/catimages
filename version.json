@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "2.0.0",
-  "apkUrl": "https://github.com/nethsaram2006-ops/catimages/releases/download/v2.0.0/DTV.apk",
-  "changelog": "• Added 136 Live TV Channels\n• Fixed DRM Widevine stream playback\n• Added YouTube TV style D-Pad navigation,add video download",
+  "versionCode": 3,
+  "versionName": "3.0.0",
+  "apkUrl": "https://github.com/nethsaram2006-ops/catimages/releases/download/helloworld/DTV.apk",
+  "changelog": "• Added 136 Live TV Channels\n• Fixed DRM Widevine stream playback\n• Added YouTube TV style D-Pad navigation\n.Added Exo Player \n.bug fixed",
   "forceUpdate": false
 }
